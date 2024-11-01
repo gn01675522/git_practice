@@ -8,7 +8,6 @@ const newData2 = "";
 const newData3 = "";
 const newData4 = "";
 
-
 app.listen(PORT, () => {
   console.log(`App is running on http://localhost:${PORT}`);
 });
