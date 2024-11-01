@@ -4,6 +4,7 @@ const PORT = 3000;
 const app = express();
 
 const newData = "";
+const newData2 = "";
 
 app.listen(PORT, () => {
   console.log(`App is running on http://localhost:${PORT}`);
